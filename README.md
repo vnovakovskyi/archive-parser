@@ -7,7 +7,7 @@ Than you can rebase produced jar file to another folder and put inputs__1_.zip
 file on the same folder.
 
 To start application use command:
-java -jar vnovakovskyi-jav02-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -jar <jar name>.jar
 
 Finally, you can find produced inputsv2.zip file in the same folder.
 In the root of .zip file you can find 2 .txt files with sorted unique phone numbers
