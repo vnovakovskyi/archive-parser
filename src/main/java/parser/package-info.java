@@ -4,4 +4,4 @@
  * @since 1.0
  */
 
-package course;
+package parser;
